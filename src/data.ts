@@ -148,7 +148,7 @@ export const facts: { label: string; value: string }[] = [
 // Newest first. Replace the [ ... ] rows with real entries, or delete them.
 export const journey: { what: string; when: string }[] = [
   // { what: "Shipped HandsUp, live classroom feedback", when: "2026" },
-  { what: "[ MuSigma ]", when: "[ Present ]" },
+  // { what: "[ MuSigma ]", when: "[ Present ]" },
   { what: "[ AU Small Finance Bank ]", when: "[ Jun 2025 - Aug 2025 ]" },
   { what: "[ Manipal University Jaipur ]", when: "[ 2023-2027 ]" },
 ]
