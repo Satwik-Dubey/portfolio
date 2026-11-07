@@ -49,7 +49,7 @@ export const projects: Project[] = [
     img: "/projects/handsup.jpg",
     links: [
       { label: "Live", href: "https://hands-up-alpha.vercel.app" },
-      // { label: "Code", href: "https://github.com/Satwik-Dubey/<handsup-repo>" },
+      { label: "Demo", href: "https://youtu.be/xeo-epJe9sY" },
     ],
   },
   {
